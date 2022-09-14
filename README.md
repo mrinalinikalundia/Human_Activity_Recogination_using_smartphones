@@ -1,0 +1,2 @@
+# Human_Activity_Recogination_using_smartphones
+ 
